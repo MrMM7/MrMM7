@@ -48,5 +48,5 @@ If it's backend-related, I’m in.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Keep+frontend+away+from+me.;Give+me+the+PYTHON!."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Keep+frontend+away+from+me.;Give+me+PYTHON!."/>
 </p>
