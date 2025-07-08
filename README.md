@@ -7,9 +7,9 @@
 
 ### 🚀 About Me
 
-I'm a backend developer who lives for writing clean, efficient code and automating boring stuff. While most people fear the command line, I feel *at home* there.
+I'm a backend developer who lives for writing clean, efficient code and automating boring stuff.
 
-I specialize in **Python** and **SQL**, and I believe front-end is best left to those who enjoy it. I'm obsessed with how things work under the hood and love diving deep into the backend of systems.
+I specialize in **Python** and **SQL**. I like how things work under the hood and love diving deep into the backend of systems.
 
 ---
 
@@ -21,10 +21,11 @@ I specialize in **Python** and **SQL**, and I believe front-end is best left to 
 
 ---
 
-### 🧠 Currently Learning
+### 🧠 My Knowledge
 
-- Advance / Intermiddiate Python
-- Beginner SQL
+- Semi-Advanced Python
+- Intermediate Backend Development
+- Git && Github
 
 ---
 
@@ -46,7 +47,3 @@ Always down to:
 If it's backend-related, I’m in.
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Keep+frontend+away+from+me.;Give+me+PYTHON!."/>
-</p>
