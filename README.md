@@ -24,6 +24,6 @@ I'm a Python developer who lives for writing clean, efficient code and automatin
 ### 🧰 Notable Projects
 
 - 📈 [`TGJU-API`](https://github.com/MrMM7/tgju-api): A Python wrapper for TGJU’s financial data, making it easy to pull gold, currency, and crypto prices in seconds. 
-- 📱  [`OnyxEngine`](https://github.com/MrMM7/OnyxEngine/tree/master): A built-from-scratch Search engine capable of crawling and indexing the requested site in mere seconds.
+- 📱  [`OnyxEngine`](https://github.com/MrMM7/OnyxEngine): A built-from-scratch Search engine capable of crawling and indexing the requested site in mere seconds.
 
 ---
