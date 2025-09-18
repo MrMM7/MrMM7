@@ -27,6 +27,6 @@ I'm a Python developer who lives for writing clean, efficient code and automatin
 - 📈 [`TGJU-API`](https://github.com/MrMM7/tgju-api): A Python wrapper for TGJU’s financial data, making it easy to pull gold, currency, and crypto prices in seconds. 
 - 📱  [`OnyxEngine`](https://github.com/MrMM7/OnyxEngine): A built-from-scratch Search engine capable of crawling and indexing the requested site in mere seconds.
 - 🤖 [`Tic Tac Toe`](https://github.com/Forth-Wall/Tic-Tac-Toe-Player): A single player tic tac toe experience with an intelligent AI opponent.
-- 🧠 [`Gen-1`](https://github.com/Forth-Wall): Coming 2026/06/21.
+- 🤔 [`?`](https://github.com/Forth-Wall): New things to come...
 
 ---
