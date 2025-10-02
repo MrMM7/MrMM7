@@ -1,8 +1,6 @@
-<h1 align="center">Hey, I'm M.Mahallati! </h1>
-
 ### 🚀 About Me
 
-I'm a Python developer who lives for writing clean, efficient code and automating boring stuff. I mainly specialize in **Python**
+I'm a software engineer. I mainly specialize in **Python**
 
 ---
 
@@ -10,14 +8,12 @@ I'm a Python developer who lives for writing clean, efficient code and automatin
 
 - **Python** – my programming language of choice
 - **FastAPI** – for building slick APIs
-- **PyTorch** - awesome package that does the heavy math for you!
 
 ---
 
 ### 🧠 My Knowledge
 
 - Intermediate Python
-- AI / Machine Learning Practitioner
 - Git & Github
 
 ---
